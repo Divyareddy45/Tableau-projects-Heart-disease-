@@ -1,8 +1,8 @@
-#Heart Disease Prediction project
+**#Heart Disease Prediction project**
 
 This project predicts the likelihood of heart disease using machine learning and data visualization.
 
-Overview
+**Overview**
 I used Python for data cleaning, exploratory data analysis(EDA) and model building, and Tableau for creating and interactive dashboard to  visualize key insights.
 
 
@@ -13,7 +13,7 @@ I used Python for data cleaning, exploratory data analysis(EDA) and model buildi
 
 [Healthcare Project.ipynb](https://github.com/user-attachments/files/22974480/Healthcare.Project.ipynb)
 
-Data Cleaning & preprocessing 
+**Data Cleaning & preprocessing **
 <img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/09a7b4f7-cdba-4ea4-9c20-bc68b51438af" />
 <img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/b69e81da-a93c-4eaf-8f32-4da37009bd2d" />
 <img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/f20ec28a-a481-4fdb-8f99-62b0f577e699" />
@@ -47,7 +47,7 @@ Data Visualization Dashboard
 
 To better understand the patterns behind cardiovascular disease, an interactive Tableau dashboard was created.
 
-📊 Key Insights:
+**📊 Key Insights:**
 
 Age vs Disease: Most heart disease cases occur between ages 40–60.
 
